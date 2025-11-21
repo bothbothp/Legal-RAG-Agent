@@ -1,0 +1,9 @@
+streamlit
+pandas
+openpyxl
+faiss-cpu
+pydantic
+langchain==0.1.20      # <--- บังคับใช้เวอร์ชัน 0.1.20
+langchain-core==0.1.52 # <--- บังคับใช้เวอร์ชัน 0.1.52
+langchain-community==0.0.35 # <--- บังคับใช้เวอร์ชัน 0.0.35
+langchain-google-genai==0.0.18 # <--- บังคับใช้เวอร์ชัน 0.0.18
